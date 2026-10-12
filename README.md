@@ -90,7 +90,7 @@ Support:
 
 Status colours:
 
-• Critical = Red
+• Critical = Red 
 
 • Low = Grey
 
